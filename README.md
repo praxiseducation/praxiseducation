@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋 
+I'm an educator learning to code and enter the world of EdTech - building apps and tools for teachers by teachers!
 
 <!--
 **praxiseducation/praxiseducation** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
